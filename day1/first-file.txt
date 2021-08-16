@@ -1,3 +1,4 @@
+Everyone is enjoying Git and GitHub lesson.
 We are writing some text on the first file.
 This is the second line on the first file.
-This is the third line on this file
+
