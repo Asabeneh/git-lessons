@@ -49,4 +49,14 @@ If you want to learn more about **markdown** check out this [link](https://guide
 </ul>
 </details>
 
+- git branch
+- git branch -a
+- git branch branch-name
+- git checkout branch-name
+- git checkout -b branch-name
+- git merge footer
+- git merge week-2
+- git clone url
+- 
+
 
