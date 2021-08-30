@@ -59,4 +59,9 @@ If you want to learn more about **markdown** check out this [link](https://guide
 - git clone url
 - 
 
-
+I want every one to create a new repo with a name practice
+- a couple commits
+- one branch with a new develop
+Group work with a private repository and one of you will be a lead a developer and you will review the code
+- Open source 
+- 
